@@ -1,3 +1,10 @@
+## iOS 18 Flashlight Demo
+
+![image](https://github.com/fsfaysalcse/SmartHomeKotlinKMP/raw/main/screenshot.png)
+
+
+### Folder Structure
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
